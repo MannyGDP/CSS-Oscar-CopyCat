@@ -1,0 +1,45 @@
+nav {
+    background-image: url(/CSS-Recreate-Oscar-Website-Design/assets/images/hero.png);
+    min-height: 10vh;
+}
+
+header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+header ul {
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+
+}
+
+header ul li {
+    list-style: none;
+    justify-content: center;
+}
+
+h3 {
+    margin: 0;
+}
+
+.top-header {
+    display: flex;
+    justify-content: center;
+    color: rgb(3, 74, 49);
+    align-items: center;
+    border-bottom: 1px solid white;
+}
+
+.top-header ul {
+    display: flex;
+    width: 75%;
+}
+
+.top-header ul li {
+    list-style: none;
+    margin-left: 20px;
+}
